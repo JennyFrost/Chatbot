@@ -1,4 +1,4 @@
-m = 1 + 2
+a = [1, 2, 3]
 
-print('Сумма чисел: ', m)
-
+for num in a:
+    print(num)
